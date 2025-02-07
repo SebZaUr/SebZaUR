@@ -39,6 +39,8 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SebZaUr&theme=dracula&hide_border=false)
 
+## Tech and Tools
+
 <div aling="center">
    <table style="border-collapse: collapse; width: 100%;">
         <tr>
