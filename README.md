@@ -18,7 +18,7 @@
    <table style="border-collapse: collapse; width: 100%;">
         <tr>
             <td style="border: none; padding: 0; margin: 0;">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebZaUr&theme=dracula&hide_border=false" alt="GitHub Contributions" style="width: 100%; height: auto;"/>
+                <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SebZaUr&theme=dracula" alt="GitHub Streak" /></a>
             </td>
             <td style="border: none; padding: 0; margin: 0;">
                 <img src="https://github-readme-stats.vercel.app/api?username=SebZaUr&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" style="width: 100%; height: auto;"/>
@@ -78,7 +78,7 @@
 
 # How Reach Me
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebassele2008@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-zamora-urrego-b777a9196/) [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/merakisemillero/workspace/overview/) [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23654275/sebastian-zamora-urrego)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sebzaur?igshid=MmU2YjMzNjRlOQ==) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-zamora-urrego-b777a9196/) [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/merakisemillero/workspace/overview/) [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23654275/sebastian-zamora-urrego)
 
 <table>
     <td align="right">
